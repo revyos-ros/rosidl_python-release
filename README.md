@@ -1,3 +1,26 @@
+## rosidl_python (jazzy) - 0.22.0-3
+
+The packages in the `rosidl_python` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rosidl_python --override-release-repository-push-url git@github.com:revyos-ros/rosidl_python-release.git` on `Tue, 11 Jun 2024 16:00:22 -0000`
+
+The `rosidl_generator_py` package was released.
+
+Version of package(s) in repository `rosidl_python`:
+
+- upstream repository: https://github.com/ros2/rosidl_python.git
+- release repository: https://github.com/ros2-gbp/rosidl_python-release.git
+- rosdistro version: `0.22.0-2`
+- old version: `0.22.0-2`
+- new version: `0.22.0-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rosidl_python (rolling) - 0.23.0-1
 
 The packages in the `rosidl_python` repository were released into the `rolling` distro by running `/usr/bin/bloom-release rosidl_python --rosdistro rolling --non-interactive` on `Fri, 26 Apr 2024 20:07:01 -0000`
